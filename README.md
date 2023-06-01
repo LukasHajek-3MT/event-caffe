@@ -9,14 +9,14 @@ stálý pracovní prostor/místo pro předplatitele
 (coworking nezávislý na akcích)
 
 tedy rozděleno na 2 části- spojníkem je kavárna.Pronajímání sálu s promítacím plátnem na různé souk. akce.</a>
-###kavárna
+-kavárna
 <a>kulturní a společenské akce
 kino
 eventový prostor
 coworking
 akce se zaměřením na hráče</a>
 
-##our philosophy
+-our philosophy
 <a>poskytnou plnohodnotný prostor pro místní komunitu ale i pro návštěvníky odkudkoliv, kteří se k nám budou vracet.
 nabídnout kulturně-společenské zázemí</a>
 
